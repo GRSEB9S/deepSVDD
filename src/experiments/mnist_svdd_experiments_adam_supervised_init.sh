@@ -1,0 +1,21 @@
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/0vsall/hard adam 0.0001 20 0 1 0.1 1 0 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/1vsall/hard adam 0.0001 20 0 1 0.1 1 1 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/2vsall/hard adam 0.0001 20 0 1 0.1 1 2 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/3vsall/hard adam 0.0001 20 0 1 0.1 1 3 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/4vsall/hard adam 0.0001 20 0 1 0.1 1 4 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/5vsall/hard adam 0.0001 20 0 1 0.1 1 5 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/6vsall/hard adam 0.0001 20 0 1 0.1 1 6 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/7vsall/hard adam 0.0001 20 0 1 0.1 1 7 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/8vsall/hard adam 0.0001 20 0 1 0.1 1 8 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/9vsall/hard adam 0.0001 20 0 1 0.1 1 9 -1
+
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/0vsall/soft adam 0.0001 20 0 0 0.1 1 0 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/1vsall/soft adam 0.0001 20 0 0 0.1 1 1 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/2vsall/soft adam 0.0001 20 0 0 0.1 1 2 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/3vsall/soft adam 0.0001 20 0 0 0.1 1 3 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/4vsall/soft adam 0.0001 20 0 0 0.1 1 4 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/5vsall/soft adam 0.0001 20 0 0 0.1 1 5 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/6vsall/soft adam 0.0001 20 0 0 0.1 1 6 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/7vsall/soft adam 0.0001 20 0 0 0.1 1 7 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/8vsall/soft adam 0.0001 20 0 0 0.1 1 8 -1
+sh scripts/mnist_svdd_mc_weights.sh cpu mnist_svdd/adam_supervised_init/9vsall/soft adam 0.0001 20 0 0 0.1 1 9 -1

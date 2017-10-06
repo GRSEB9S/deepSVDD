@@ -1,0 +1,21 @@
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/0vsall/hard adam 0.0001 50 0 1 1 0 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/1vsall/hard adam 0.0001 50 0 1 1 1 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/2vsall/hard adam 0.0001 50 0 1 1 2 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/3vsall/hard adam 0.0001 50 0 1 1 3 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/4vsall/hard adam 0.0001 50 0 1 1 4 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/5vsall/hard adam 0.0001 50 0 1 1 5 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/6vsall/hard adam 0.0001 50 0 1 1 6 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/7vsall/hard adam 0.0001 50 0 1 1 7 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/8vsall/hard adam 0.0001 50 0 1 1 8 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/9vsall/hard adam 0.0001 50 0 1 1 9 -1
+
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/0vsall/soft adam 0.0001 50 0 1 0 0 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/1vsall/soft adam 0.0001 50 0 1 0 1 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/2vsall/soft adam 0.0001 50 0 1 0 2 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/3vsall/soft adam 0.0001 50 0 1 0 3 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/4vsall/soft adam 0.0001 50 0 1 0 4 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/5vsall/soft adam 0.0001 50 0 1 0 5 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/6vsall/soft adam 0.0001 50 0 1 0 6 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/7vsall/soft adam 0.0001 50 0 1 0 7 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/8vsall/soft adam 0.0001 50 0 1 0 8 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/adam_wo_wd/9vsall/soft adam 0.0001 50 0 1 0 9 -1

@@ -1,0 +1,32 @@
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/0vsall/nu=01 0.1 0 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/1vsall/nu=01 0.1 1 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/2vsall/nu=01 0.1 2 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/3vsall/nu=01 0.1 3 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/4vsall/nu=01 0.1 4 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/5vsall/nu=01 0.1 5 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/6vsall/nu=01 0.1 6 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/7vsall/nu=01 0.1 7 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/8vsall/nu=01 0.1 8 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/9vsall/nu=01 0.1 9 -1
+
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/0vsall/nu=001 0.01 0 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/1vsall/nu=001 0.01 1 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/2vsall/nu=001 0.01 2 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/3vsall/nu=001 0.01 3 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/4vsall/nu=001 0.01 4 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/5vsall/nu=001 0.01 5 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/6vsall/nu=001 0.01 6 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/7vsall/nu=001 0.01 7 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/8vsall/nu=001 0.01 8 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/9vsall/nu=001 0.01 9 -1
+
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/0vsall/nu=1 1 0 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/1vsall/nu=1 1 1 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/2vsall/nu=1 1 2 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/3vsall/nu=1 1 3 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/4vsall/nu=1 1 4 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/5vsall/nu=1 1 5 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/6vsall/nu=1 1 6 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/7vsall/nu=1 1 7 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/8vsall/nu=1 1 8 -1
+sh scripts/cifar10_ocsvm.sh cifar10_ocsvm/9vsall/nu=1 1 9 -1

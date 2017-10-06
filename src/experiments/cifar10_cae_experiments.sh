@@ -1,0 +1,10 @@
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/0vsall adam 0.0001 150 1 l2 256 0 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/1vsall adam 0.0001 150 1 l2 256 1 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/2vsall adam 0.0001 150 1 l2 256 2 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/3vsall adam 0.0001 150 1 l2 256 3 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/4vsall adam 0.0001 150 1 l2 256 4 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/5vsall adam 0.0001 150 1 l2 256 5 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/6vsall adam 0.0001 150 1 l2 256 6 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/7vsall adam 0.0001 150 1 l2 256 7 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/8vsall adam 0.0001 150 1 l2 256 8 -1
+sh scripts/cifar10_cae.sh gpu1 cifar10_cae/9vsall adam 0.0001 150 1 l2 256 9 -1

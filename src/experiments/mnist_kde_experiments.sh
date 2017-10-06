@@ -1,0 +1,21 @@
+sh scripts/mnist_kde.sh mnist_kde/0vsall/pca 1 0 -1
+sh scripts/mnist_kde.sh mnist_kde/1vsall/pca 1 1 -1
+sh scripts/mnist_kde.sh mnist_kde/2vsall/pca 1 2 -1
+sh scripts/mnist_kde.sh mnist_kde/3vsall/pca 1 3 -1
+sh scripts/mnist_kde.sh mnist_kde/4vsall/pca 1 4 -1
+sh scripts/mnist_kde.sh mnist_kde/5vsall/pca 1 5 -1
+sh scripts/mnist_kde.sh mnist_kde/6vsall/pca 1 6 -1
+sh scripts/mnist_kde.sh mnist_kde/7vsall/pca 1 7 -1
+sh scripts/mnist_kde.sh mnist_kde/8vsall/pca 1 8 -1
+sh scripts/mnist_kde.sh mnist_kde/9vsall/pca 1 9 -1
+
+sh scripts/mnist_kde.sh mnist_kde/0vsall/raw 0 0 -1
+sh scripts/mnist_kde.sh mnist_kde/1vsall/raw 0 1 -1
+sh scripts/mnist_kde.sh mnist_kde/2vsall/raw 0 2 -1
+sh scripts/mnist_kde.sh mnist_kde/3vsall/raw 0 3 -1
+sh scripts/mnist_kde.sh mnist_kde/4vsall/raw 0 4 -1
+sh scripts/mnist_kde.sh mnist_kde/5vsall/raw 0 5 -1
+sh scripts/mnist_kde.sh mnist_kde/6vsall/raw 0 6 -1
+sh scripts/mnist_kde.sh mnist_kde/7vsall/raw 0 7 -1
+sh scripts/mnist_kde.sh mnist_kde/8vsall/raw 0 8 -1
+sh scripts/mnist_kde.sh mnist_kde/9vsall/raw 0 9 -1

@@ -1,0 +1,32 @@
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/0vsall/hard momentum 0.0001 100 1 1 0.1 0 0 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/1vsall/hard momentum 0.0001 100 1 1 0.1 0 1 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/2vsall/hard momentum 0.0001 100 1 1 0.1 0 2 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/3vsall/hard momentum 0.0001 100 1 1 0.1 0 3 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/4vsall/hard momentum 0.0001 100 1 1 0.1 0 4 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/5vsall/hard momentum 0.0001 100 1 1 0.1 0 5 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/6vsall/hard momentum 0.0001 100 1 1 0.1 0 6 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/7vsall/hard momentum 0.0001 100 1 1 0.1 0 7 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/8vsall/hard momentum 0.0001 100 1 1 0.1 0 8 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/9vsall/hard momentum 0.0001 100 1 1 0.1 0 9 -1
+
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/0vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 0 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/1vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 1 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/2vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 2 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/3vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 3 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/4vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 4 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/5vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 5 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/6vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 6 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/7vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 7 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/8vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 8 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/9vsall/soft_01 momentum 0.0001 100 1 0 0.1 0 9 -1
+
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/0vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 0 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/1vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 1 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/2vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 2 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/3vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 3 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/4vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 4 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/5vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 5 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/6vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 6 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/7vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 7 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/8vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 8 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/momentum/9vsall/soft_001 momentum 0.0001 100 1 0 0.01 0 9 -1

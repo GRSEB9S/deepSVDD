@@ -1,0 +1,21 @@
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/0vsall/hard momentum 0.00001 100 1 1 1 0 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/1vsall/hard momentum 0.00001 100 1 1 1 1 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/2vsall/hard momentum 0.00001 100 1 1 1 2 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/3vsall/hard momentum 0.00001 100 1 1 1 3 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/4vsall/hard momentum 0.00001 100 1 1 1 4 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/5vsall/hard momentum 0.00001 100 1 1 1 5 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/6vsall/hard momentum 0.00001 100 1 1 1 6 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/7vsall/hard momentum 0.00001 100 1 1 1 7 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/8vsall/hard momentum 0.00001 100 1 1 1 8 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/9vsall/hard momentum 0.00001 100 1 1 1 9 -1
+
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/0vsall/soft momentum 0.00001 100 0 0 0 0 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/1vsall/soft momentum 0.00001 100 0 0 0 1 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/2vsall/soft momentum 0.00001 100 0 0 0 2 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/3vsall/soft momentum 0.00001 100 0 0 0 3 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/4vsall/soft momentum 0.00001 100 0 0 0 4 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/5vsall/soft momentum 0.00001 100 0 0 0 5 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/6vsall/soft momentum 0.00001 100 0 0 0 6 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/7vsall/soft momentum 0.00001 100 0 0 0 7 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/8vsall/soft momentum 0.00001 100 0 0 0 8 -1
+sh scripts/cifar10_svdd.sh gpu1 cifar10_svdd/momentum/9vsall/soft momentum 0.00001 100 0 0 0 9 -1

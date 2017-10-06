@@ -1,0 +1,10 @@
+sh scripts/mnist_cae.sh cpu mnist_cae/0vsall adam 0.0001 150 l1 32 1 l2 0 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/1vsall adam 0.0001 150 l1 32 1 l2 1 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/2vsall adam 0.0001 150 l1 32 1 l2 2 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/3vsall adam 0.0001 150 l1 32 1 l2 3 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/4vsall adam 0.0001 150 l1 32 1 l2 4 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/5vsall adam 0.0001 150 l1 32 1 l2 5 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/6vsall adam 0.0001 150 l1 32 1 l2 6 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/7vsall adam 0.0001 150 l1 32 1 l2 7 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/8vsall adam 0.0001 150 l1 32 1 l2 8 -1
+sh scripts/mnist_cae.sh cpu mnist_cae/9vsall adam 0.0001 150 l1 32 1 l2 9 -1

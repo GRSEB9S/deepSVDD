@@ -1,0 +1,10 @@
+sh scripts/cifar10_kde.sh cifar10_kde/0vsall/pca 1 0 -1
+sh scripts/cifar10_kde.sh cifar10_kde/1vsall/pca 1 1 -1
+sh scripts/cifar10_kde.sh cifar10_kde/2vsall/pca 1 2 -1
+sh scripts/cifar10_kde.sh cifar10_kde/3vsall/pca 1 3 -1
+sh scripts/cifar10_kde.sh cifar10_kde/4vsall/pca 1 4 -1
+sh scripts/cifar10_kde.sh cifar10_kde/5vsall/pca 1 5 -1
+sh scripts/cifar10_kde.sh cifar10_kde/6vsall/pca 1 6 -1
+sh scripts/cifar10_kde.sh cifar10_kde/7vsall/pca 1 7 -1
+sh scripts/cifar10_kde.sh cifar10_kde/8vsall/pca 1 8 -1
+sh scripts/cifar10_kde.sh cifar10_kde/9vsall/pca 1 9 -1

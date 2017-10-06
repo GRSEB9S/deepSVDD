@@ -1,0 +1,10 @@
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/0vsall adam 0.000001 20 1 1 1 0 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/1vsall adam 0.000001 20 1 1 1 1 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/2vsall adam 0.000001 20 1 1 1 2 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/3vsall adam 0.000001 20 1 1 1 3 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/4vsall adam 0.000001 20 1 1 1 4 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/5vsall adam 0.000001 20 1 1 1 5 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/6vsall adam 0.000001 20 1 1 1 6 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/7vsall adam 0.000001 20 1 1 1 7 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/8vsall adam 0.000001 20 1 1 1 8 -1
+sh scripts/cifar10_svdd_mc_weights.sh gpu1 cifar10_svdd/adam_supervised_init/9vsall adam 0.000001 20 1 1 1 9 -1

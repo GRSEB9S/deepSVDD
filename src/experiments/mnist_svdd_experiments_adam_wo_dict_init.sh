@@ -1,0 +1,10 @@
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/0vsall adam 0.001 20 0 1 0.1 0 0 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/1vsall adam 0.001 20 0 1 0.1 0 1 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/2vsall adam 0.001 20 0 1 0.1 0 2 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/3vsall adam 0.001 20 0 1 0.1 0 3 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/4vsall adam 0.001 20 0 1 0.1 0 4 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/5vsall adam 0.001 20 0 1 0.1 0 5 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/6vsall adam 0.001 20 0 1 0.1 0 6 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/7vsall adam 0.001 20 0 1 0.1 0 7 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/8vsall adam 0.001 20 0 1 0.1 0 8 -1
+sh scripts/mnist_svdd.sh cpu mnist_svdd/adam_wo_dict_init/9vsall adam 0.001 20 0 1 0.1 0 9 -1
